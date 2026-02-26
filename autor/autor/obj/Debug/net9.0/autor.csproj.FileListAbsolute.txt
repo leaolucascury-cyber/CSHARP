@@ -1,0 +1,14 @@
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\autor.AssemblyInfoInputs.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\autor.AssemblyInfo.cs
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\autor.csproj.CoreCompileInputs.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\bin\Debug\net9.0\autor.exe
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\bin\Debug\net9.0\autor.deps.json
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\bin\Debug\net9.0\autor.runtimeconfig.json
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\bin\Debug\net9.0\autor.dll
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\bin\Debug\net9.0\autor.pdb
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\autor.dll
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\refint\autor.dll
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\autor.pdb
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\autor.genruntimeconfig.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\autor\autor\obj\Debug\net9.0\ref\autor.dll
